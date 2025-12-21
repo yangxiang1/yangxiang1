@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [你的名字]
+# 👋 Hi, I'm [付翔[
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=3000&pause=1000&color=0096FF&width=435&lines=Game%20R&D%20Engineer%20%7C%20SRE%20Engineer;Focus%20on%20Game%20Client/Server%20&%20Cloud%20Native)](https://git.io/typing-svg)
 
 🎯 **求职意向**：网易游戏研发工程师（客户端/服务端）、运维研发工程师（SRE）
