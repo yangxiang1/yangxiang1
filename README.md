@@ -24,15 +24,12 @@
 ---
 
 ## 📚 Learning & Practice 学习与实践
-- **算法刷题**：[LeetCode](https://leetcode.cn/u/你的用户名/) 刷题XX道，覆盖数组、链表、并发编程等考点
 - **技术博客**：[CSDN/掘金](你的博客链接) 分享游戏研发/SRE相关技术笔记（如《Unity Draw Call优化实践》《K8s游戏服务部署实战》）
-- **开源贡献**：参与XX开源项目（如Unity工具链/Go网络框架）的Bug修复与文档完善
 
 ---
 
 ## 📫 Contact Me 联系方式
-- 📧 邮箱：your_email@xxx.com
-- 📱 电话：你的手机号（可选，建议仅在面试阶段提供）
-- 🔗 简历：[你的简历PDF链接（可放GitHub Pages）](你的简历链接)
+- 📧 邮箱：im.fx@qq.com
+
 
 *注：所有项目均为自研，聚焦游戏研发与SRE工程能力，持续更新中 🔨*
