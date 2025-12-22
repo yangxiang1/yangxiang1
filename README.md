@@ -19,7 +19,7 @@
 |----------|--------|----------|----------|
 | Unity 3D 角色交互Demo | C#、Unity、Shader、UGUI | 实现3D角色移动/技能特效/UI交互，优化Draw Call提升帧率（从30→60） | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/你的用户名/unity-3d-character-demo) 
 | Go 游戏服务端Mini框架 | Go、Netty、MySQL、Redis | 实现多人房间匹配、玩家数据同步与并发校验，支撑1000+模拟在线 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/你的用户名/go-game-server) |
-| SRE 游戏服务器监控工具 | Python、Prometheus、Grafana、Docker | 实现游戏服务器CPU/内存/日志监控，异常自动告警与容器重启 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/你的用户名/sre-game-monitor) |
+| SRE 游戏服务器监控工具 | Python、Prometheus、Grafana、Docker | 实现游戏服务器CPU/内存/日志监控，异常自动告警与容器重启 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yangxiang1/sre-game-server-monitor) |
 
 ---
 
