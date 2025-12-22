@@ -24,7 +24,7 @@
 ---
 
 ## 📚 Learning & Practice 学习与实践
-- **技术博客**：[(CSDN博客链接](https://blog.csdn.net/m0_74852721?type=blog)) 分享游戏研发/SRE相关技术笔记（如《Unity Draw Call优化实践》《K8s游戏服务部署实战》）
+- **技术博客**：[(CSDN博客链接](https://blog.csdn.net/m0_74852721?type=blog)) 分享游戏研发/SRE相关技术笔记（如《Docker 游戏服务一键部署工具》《K8s游戏服务部署实战》）
 
 ---
 
