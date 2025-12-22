@@ -1,7 +1,6 @@
 # 👋 Hi, I'm 付翔
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1200&color=0096FF&width=500&lines=运维工程师)
 
-🎯 **求职意向**：运维工程师
 📍 **技术栈**：
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
