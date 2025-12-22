@@ -1,5 +1,5 @@
 # 👋 Hi, I'm 付翔
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1200&color=0096FF&width=500&lines=网易游戏研发%20%7C%20SRE工程师;聚焦游戏客户端/服务端开发;深耕云原生运维与游戏高可用架构)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3500&pause=1200&color=0096FF&width=500&lines=网易游戏研发%20%7C%20运维工程师;聚焦游戏客户端/服务端开发;深耕云原生运维与游戏高可用架构)](https://git.io/typing-svg)
 
 🎯 **求职意向**：网易游戏研发工程师（客户端/服务端）、运维研发工程师（SRE）
 📍 **技术栈**：
