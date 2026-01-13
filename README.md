@@ -19,6 +19,7 @@
 |Zabbix监控系统 |CentOS 7.9 操作系统、Zabbix 6.4 监控核心、Apache Web 服务、MariaDB 数据库、Zabbix Agent 客户端 | 实现3D角色移动/技能特效/UI交互，优化Draw Call提升帧率（从30→60） | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yangxiang1/Zabbix/tree/main) 
 | Go 游戏服务端Mini框架 | Go、Netty、MySQL、Redis | 实现多人房间匹配、玩家数据同步与并发校验，支撑1000+模拟在线 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yangxiang1/go-game-server/blob/main/README.md) |
 | SRE 游戏服务器监控工具 | Python、Prometheus、Grafana、Docker | 实现游戏服务器CPU/内存/日志监控，异常自动告警与容器重启 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yangxiang1/sre-game-server-monitor) |
+|K8s集群容灾与中间件高可用实践 | Velero+Redis、Sentinel、MySQL  |基于Velero+Redis Sentinel+MySQL Operator的企业级解决方案 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/yangxiang1/sre-game-server-monitor) |
 
 ---
 
